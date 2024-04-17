@@ -6,7 +6,7 @@
 
 ## Features and Functionality
 - Home page on opening the application
-![Home Page](./images/To Do App Screenshots/On open.PNG)
+
 - Cross out finished tasks
 - 
 - Swipe and drag task to the left for delete icon/button
