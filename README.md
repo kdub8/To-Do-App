@@ -6,7 +6,7 @@
 
 ## Features and Functionality
 - Home page on opening the application
-
+-
 - Cross out finished tasks
 - 
 - Swipe and drag task to the left for delete icon/button
