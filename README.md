@@ -5,17 +5,4 @@
 **Address:** 3801 W Temple Avenue, Pomona, CA 91768  
 
 ## Features and Functionality
-- Home page on opening the application
--
-- Cross out finished tasks
-- 
-- Swipe and drag task to the left for delete icon/button
-- 
-- Deleted exercises task
-- 
-- Click + button on bottom right to add a new task
-- 
-- Press save to successfully and officially add a new task
-- 
-- Scrolling functionality
-- 
+Click and open the pdf above to see demonstrations of the application running!
